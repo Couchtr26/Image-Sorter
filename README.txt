@@ -59,3 +59,5 @@ No images are included.
 This project includes embedded rules, creator codes, and humor tied to Codex Libris Mechanicus.
 
 "The John Code" remains embedded for legacy preservation, with no impact on program operation.
+
+Copyright (c) 2025 Couchtr26
